@@ -29,3 +29,9 @@ console.log(typeof undefined)
 console.log(typeof null)
 console.log(typeof name)
 console.log(typeof age)
+
+
+// Datatypes summary
+
+// Primitive : 7 types = [Strings, Numbers, Boolean, null, undefined, Symbol, BigInt]
+// Reference Type/ Non premitive = [Array, Objects, Functions]
