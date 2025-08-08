@@ -60,4 +60,18 @@ let emptyStr = ''
 // null => false
 // undefined => false
 
+// Tricky conversions
+
+console.log(2+3+"5")
+console.log("5"+4+3)
+console.log(+true)
+console.log(+"")
+
+let gameCounter = 100
+console.log(++gameCounter)
+console.log(++gameCounter)
+
+let counter = 90
+console.log(counter++)
+console.log(counter++)
 
