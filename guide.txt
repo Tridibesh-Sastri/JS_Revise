@@ -2,3 +2,4 @@
 2. create github codespace in this repo
 3. type ">container" select "Add dev container configuration files"
 4. search for node js
+5. use documentation from mdn and ecma(for generic browser independent standards)
